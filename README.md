@@ -6,4 +6,4 @@ Pour tester l'application :
 
 1. Faites un git clone.
 2. Dans le fichier "conf.json" remplacer Bordeaux par la ville de votre choix.
-3. Avec setInterval, l'application se mettra à jour à chaque interval d'une heure après le lancement. (lancement 11:08 => mise à jour 12:08).
+3. L'application se mettra à jour à chaque interval d'une heure après le lancement. (lancement 11:08 => mise à jour 12:08).
