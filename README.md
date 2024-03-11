@@ -1,6 +1,6 @@
 Voici mon application Station Météo réalisée pour l'entreprise Simplon.
 
-Le document réference: [https://drive.google.com/file/d/1RkSRB6hkm4GcHBmKHC4SEnLOs8J5N6U-/view](url)
+Le document réference: [[https://drive.google.com/file/d/1RkSRB6hkm4GcHBmKHC4SEnLOs8J5N6U-/view](url)](https://github.com/MarchiveFlorian/Station_Meteo/blob/main/%5BPositionnement%5D%20Brief%20projet%20-%20CDA.pdf)
 
 Pour tester l'application :
 
