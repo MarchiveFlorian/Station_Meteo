@@ -1,0 +1,49 @@
+body{
+    background-image: url(../img/weather-images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    color: white;
+    padding: 15px;
+    border: 4px solid #ffffff;
+    border-radius: 40px;
+}
+
+.box-container{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 300px;
+    height: 100px;
+    border: 4px solid #000000;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+#city{
+    background-image: url(../img/A-city-background-with-many-buildings-Graphics-3653585-1.jpg);
+    background-size: cover;
+    color: white;
+    margin-top: 50%;
+}
+
+#temp{
+    background-image: url(../img/1000_F_53869754_RVRxnkYD023JBAG4bjv5h7ZrnT90Cd1T.jpg);
+    background-size: cover;
+    color: black;
+}
